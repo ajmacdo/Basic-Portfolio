@@ -1,0 +1,30 @@
+body {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#nav_bar ul {
+    list-style: none;
+    padding: 1em 0;
+    background-color: #006565;
+    text-align: center;
+}
+
+#nav_bar li {
+    display: inline;
+    background-color: #006565;
+    text-align: center;
+}
+
+#nav_bar a {
+    padding: 0 1em;
+    font-family: "Segoe UI Light", "Malgun Gothic Semilight", "Trebuchet MS", arial, "sans-serif";
+    color: white;
+    background-color: #006565;
+    text-align: center;
+    text-decoration: none;
+}
+
+#nav_bar :hover {
+    color: darkorange;
+}
